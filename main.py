@@ -3,11 +3,11 @@ import numpy as np
 import preprocessing
 import classifier
 
-train_data = preprocessing.load_train_dataset("./data/Genes_relation.data")
-test_data = preprocessing.load_test_dataset("./data/Genes_relation.test")
+train_data = preprocessing.load_csv("./data/Genes_relation.data")
+test_data = preprocessing.load_csv("./data/Genes_relation.test")
 
-print(train_data["Complex"].value_counts())
-print("NAN Count:", train_data["Complex"].isna().count())
+train_data = preprocessing.encode_categorical_variables(train_data)
+print(train_data.columns)
 
 # print(train_data.head(5))
 

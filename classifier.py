@@ -7,6 +7,11 @@ from scipy.spatial import distance
    Distance function for calculating euclidean distance between two tuples 
 '''
 def calculate_cosine_similarity(u: pd.Series, v: pd.Series) -> float:
+    if len(u) != len(v):
+        return 100000
+
+    else:
+
     return 1 - distance.cosine(u, v)
 
 
