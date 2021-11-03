@@ -1,33 +1,14 @@
 import pandas as pd
 import numpy as np
+import preprocessing
+import classifier
 
+train_data = preprocessing.load_train_dataset("./data/Genes_relation.data")
+test_data = preprocessing.load_test_dataset("./data/Genes_relation.test")
 
-''' 
-    Method to load in data from csv file path 
-    
-      - Replaces "?" with NaN
-      - Drops the "Function" attribute
-'''
-def load_dataset(path: str) -> pd.DataFrame:
-    data = pd.read_csv(path)
-    data.replace("?", np.nan)
-    return data.drop(["Function"], axis=1)
+print(train_data["Complex"].value_counts())
+print("NAN Count:", train_data["Complex"].isna().count())
 
+# print(train_data.head(5))
 
-''' 
-    Replace missing values with the average of each attribute 
-'''
-def replace_missing_values(data: pd.DataFrame) -> pd.DataFrame:
-    for col in data.columns:
-        data[col] = data[col].fillna(data[col].mean())
-
-    return data
-
-
-data = load_dataset("./data/Genes_relation.data")
-print(data.head(10))
-# data = replace_missing_values(data)
-# print(data.head(10))
-
-names = pd.read_csv("./data/Genes_relation.names", sep="\n")
-print(names)
+# prediction = classifier.knn_classifier(train_data, test_data, 3)
