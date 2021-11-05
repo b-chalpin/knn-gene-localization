@@ -12,7 +12,7 @@ Program used to classify the `Gene_relation` dataset using KNN.
 
 ##### Using Conda
 
-To create the virtual environment and install required Python packages, run the following commands in the terminal:
+To create the virtual environment, install required Python packages, and run the program, execute the following commands in the terminal:
 
 ```
 conda env create -f environment.yml
