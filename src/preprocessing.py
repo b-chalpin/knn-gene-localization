@@ -21,19 +21,6 @@ def load_csv(path: str) -> pd.DataFrame:
     return data
 
 
-''' 
-    Replace missing values with the average of each attribute 
-    
-    ! DEPRECATED !
-'''
-def replace_missing_values(data: pd.DataFrame) -> pd.DataFrame:
-    for col in data.columns.drop(["GeneID", "Localization"], axis=1):
-        mode = data[col].mode()[0]
-        data[col] = data[col].fillna(data[col].mode()[0], inplace=True)
-
-    return data
-
-
 '''
     Load and preprocess our train dataset
 '''

@@ -1,4 +1,4 @@
-name: cscd429-hw2
+name: cscd429-hw2-blake-chalpin
 channels:
   - defaults
 dependencies:
