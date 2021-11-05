@@ -1,0 +1,8 @@
+name: cscd429-hw2
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+      - -r requirements.txt

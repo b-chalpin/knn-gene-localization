@@ -1,0 +1,1211 @@
+INFO:root:Beginning KNN classification for train set (4346, 8) and test set (300, 8)
+
+
+INFO:root:Begin classification for test tuple:
+['G235517' 'Essential' <NA> 'Cytoskeleton'
+ 'Cell morphology and organelle mutants' <NA> <NA> 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234394' 'Essential' 'Actins' 'Cytoskeleton' 'Conditional phenotypes'
+ 'PS00406' '6' 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234905' 'Non-Essential' 'Cyclins'
+ 'Cyclin-CDK (Cyclin-dependent kinases) complexes'
+ 'Conditional phenotypes' <NA> '15' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234806' 'Non-Essential' 'Motorproteins' 'Cytoskeleton' <NA> 'PS00017'
+ '13' 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234698' 'Non-Essential' 'GTP/GDP-exchange factors (GEFs)' <NA> <NA>
+ 'PS00720' '12' 'plasma membrane']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G237406' 'Essential' <NA> <NA> 'Cell morphology and organelle mutants'
+ 'PS00225' <NA> 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234881' 'Essential' 'Polymerases' 'Replication complexes' 'Unknown'
+ <NA> '14' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234372' 'Non-Essential' 'GTPase activating proteins (GAPs)' <NA>
+ 'Sensitivity to aminoacid analogs and other drugs' <NA> '5' 'cytoplasm']
+INFO:root:PREDICTION: golgi
+INFO:root:Begin classification for test tuple:
+['G234704' 'Non-Essential' 'Ubiquitin-system proteins' <NA>
+ 'Mating and sporulation defects' 'PS00299' '12' 'cytoplasm']
+INFO:root:PREDICTION: endosome
+INFO:root:Begin classification for test tuple:
+['G234739' 'Essential' 'ATPases' 'Translation complexes' 'Unknown'
+ 'PS00211' '12' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G236523' 'Non-Essential' <NA> <NA> 'Cell cycle defects' 'PS00633' '12'
+ 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234974' 'Essential' 'ATPases' 'Proteasome' 'Conditional phenotypes'
+ <NA> '15' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234249' 'Non-Essential' 'Proteases' 'Proteasome' 'Cell cycle defects'
+ 'PS00972' '4' 'nucleus']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234739' 'Essential' 'ATPases' 'Translation complexes'
+ 'Cell morphology and organelle mutants' 'PS00211' '12' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234365' 'Essential' 'Ubiquitin-system proteins' <NA>
+ 'Sensitivity to aminoacid analogs and other drugs' 'PS01159' '5'
+ 'plasma membrane']
+INFO:root:PREDICTION: ER
+INFO:root:Begin classification for test tuple:
+['G237100' 'Non-Essential' <NA> <NA> 'Conditional phenotypes' <NA> '11'
+ 'nucleus']
+INFO:root:PREDICTION: ER
+INFO:root:Begin classification for test tuple:
+['G234965' 'Essential' 'Polymerases'
+ 'Transcription complexes/Transcriptosome' <NA> 'PS01112' <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G239343' 'Non-Essential' <NA> <NA> <NA> <NA> '2' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235778' 'Non-Essential' <NA> 'Intracellular transport complexes'
+ 'Mating and sporulation defects' <NA> '14' 'cytoplasm']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G239593' 'Non-Essential' <NA> <NA> <NA> 'PS00927' '4' 'cytoplasm']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235033' 'Essential' 'Protein Kinases' 'Casein kinase'
+ 'Nucleic acid metabolism defects' 'PS00108' '16' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G239911' 'Non-Essential' <NA> <NA> 'Conditional phenotypes' <NA> <NA>
+ 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234419' 'Essential' 'Transcription factors' <NA>
+ 'Cell morphology and organelle mutants' 'PS00434' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G238723' 'Essential' <NA> <NA> 'Nucleic acid metabolism defects' <NA>
+ '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235299' 'Non-Essential' <NA> 'Respiration chain complexes'
+ 'Auxotrophies, carbon and' <NA> '4' 'mitochondria']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G235748' 'Non-Essential' <NA> 'RNA processing complexes'
+ 'Conditional phenotypes' <NA> '13' 'mitochondria']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235794' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Sensitivity to aminoacid analogs and other drugs' <NA> '14' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235424' 'Non-Essential' <NA> 'Intracellular transport complexes'
+ 'Cell morphology and organelle mutants' <NA> '7' 'golgi']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235831' 'Essential' <NA> 'Translocon' <NA> <NA> '15' 'ER']
+INFO:root:PREDICTION: ER
+INFO:root:Begin classification for test tuple:
+['G237406' 'Essential' <NA> <NA> 'Conditional phenotypes' 'PS00225' <NA>
+ 'cytoplasm']
+INFO:root:PREDICTION: ER
+INFO:root:Begin classification for test tuple:
+['G234385' 'Non-Essential' 'Molecular chaperones' <NA>
+ 'Auxotrophies, carbon and' 'PS00637' '6' 'mitochondria']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G234062' 'Non-Essential' 'ATPases' 'Respiration chain complexes' <NA>
+ 'PS00152' <NA> 'mitochondria']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G234790' 'Non-Essential' 'Ubiquitin-system proteins' <NA>
+ 'Stress response defects' 'PS00183' '13' 'ER']
+INFO:root:PREDICTION: vacuole
+INFO:root:Begin classification for test tuple:
+['G235179' 'Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Conditional phenotypes' 'PS00626' <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234215' 'Essential' 'ATPases'
+ 'Chaperonine containing T-complex TRiC (TCP RING Complex)' <NA> 'PS00750'
+ '4' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G237337' 'Non-Essential' <NA> <NA>
+ 'Cell morphology and organelle mutants' <NA> '4' 'ER']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G235224' 'Non-Essential' <NA> 'Translocon' 'Conditional phenotypes' <NA>
+ '4' 'ER']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235909' 'Essential' <NA> 'Replication complexes'
+ 'Conditional phenotypes' 'PS00847' '16' 'nucleus']
+INFO:root:PREDICTION: golgi
+INFO:root:Begin classification for test tuple:
+['G235255' 'Essential' <NA> <NA> <NA> <NA> '4' 'cytoskeleton']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234137' 'Non-Essential' 'Motorproteins' 'Cytoskeleton' <NA> <NA> '2'
+ 'cytoskeleton']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G240200' 'Non-Essential' <NA> <NA> 'Mating and sporulation defects'
+ 'PS00486' <NA> 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235547' 'Non-Essential' <NA> 'Cytoskeleton' 'Cell cycle defects' <NA>
+ '10' 'cytoskeleton']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G235311' 'Ambiguous-Essential' <NA> 'RNA processing complexes'
+ 'Cell morphology and organelle mutants' 'PS00690' '5' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G240440' 'Non-Essential' <NA> <NA> <NA> <NA> '4' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234490' 'Non-Essential' 'Transcription factors' <NA>
+ 'Cell morphology and organelle mutants' 'PS00028' '8' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234739' 'Essential' 'ATPases' 'Translation complexes'
+ 'Sensitivity to antibiotics' 'PS00017' '12' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234573' 'Essential' 'ATPases' 'Translocon' <NA> 'PS00014' '10' 'ER']
+INFO:root:PREDICTION: extracellular
+INFO:root:Begin classification for test tuple:
+['G235777' 'Essential' <NA> 'RNA processing complexes'
+ 'Conditional phenotypes' <NA> '14' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234423' 'Essential' 'GTP/GDP-exchange factors (GEFs)' <NA>
+ 'Cell morphology and organelle mutants' 'PS00626' '7' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235337' 'Essential' <NA> 'RNA processing complexes'
+ 'Conditional phenotypes' 'PS00012' '5' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234612' 'Non-Essential' 'Transcription factors'
+ 'Transcription complexes/Transcriptosome'
+ 'Cell morphology and organelle mutants' 'PS00038' '10' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235587' 'Non-Essential' <NA> 'RNA processing complexes' <NA> <NA> '11'
+ 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234847' 'Non-Essential' 'Polymerases'
+ 'Cyclin-CDK (Cyclin-dependent kinases) complexes'
+ 'Auxotrophies, carbon and' <NA> '14' 'nucleus']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G234147' 'Essential' 'Polymerases'
+ 'Transcription complexes/Transcriptosome'
+ 'Nucleic acid metabolism defects' <NA> '2' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234612' 'Non-Essential' 'Transcription factors'
+ 'Transcription complexes/Transcriptosome' 'Auxotrophies, carbon and'
+ 'PS00038' '10' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235931' <NA> <NA> 'Intracellular transport complexes'
+ 'Cell morphology and organelle mutants' <NA> '16' 'transport vesicles']
+INFO:root:PREDICTION: transport vesicles
+INFO:root:Begin classification for test tuple:
+['G235311' 'Ambiguous-Essential' <NA> 'RNA processing complexes'
+ 'Nucleic acid metabolism defects' 'PS00690' '5' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G240462' <NA> <NA> <NA> 'Auxotrophies, carbon and' <NA> '12'
+ 'mitochondria']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G237429' 'Non-Essential' <NA> <NA>
+ 'Sensitivity to aminoacid analogs and other drugs' <NA> '13'
+ 'plasma membrane']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234247' 'Essential' 'Ubiquitin-system proteins'
+ 'SCF (Skp1-Cdc53-F-box protein) complexes'
+ 'Cell morphology and organelle mutants' <NA> '4' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234267' 'Essential' 'GTP-binding proteins' 'Translation complexes'
+ 'Cell morphology and organelle mutants' 'PS00301' '4' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235538' 'Essential' <NA> 'Replication complexes' 'Cell cycle defects'
+ <NA> '10' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234289' 'Essential' 'Polymerases'
+ 'Transcription complexes/Transcriptosome' <NA> <NA> '4' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235909' 'Essential' <NA> 'Replication complexes' 'Cell cycle defects'
+ 'PS00847' '16' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234419' 'Essential' 'Transcription factors' <NA>
+ 'Cell morphology and organelle mutants' 'PS00434' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235150' 'Non-Essential' <NA> 'Translocon'
+ 'Mating and sporulation defects' <NA> '2' 'ER']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G238723' 'Essential' <NA> <NA> 'Cell cycle defects' <NA> '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235423' 'Non-Essential' <NA> 'Translation complexes'
+ 'Conditional phenotypes' <NA> '7' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235268' 'Essential' <NA> 'Kinetochore protein complexes'
+ 'Cell cycle defects' <NA> '4' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235783' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Nucleic acid metabolism defects' <NA> '14' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G236771' 'Non-Essential' <NA> <NA> 'Conditional phenotypes' 'PS00599'
+ <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234081' 'Non-Essential' 'Histones' 'Nucleosomal protein complex'
+ 'Cell morphology and organelle mutants' 'PS00357' '2' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234573' 'Essential' 'Molecular chaperones' 'Translocon' <NA> 'PS00329'
+ '10' 'ER']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G235176' 'Non-Essential' <NA> 'Translation complexes' <NA> 'PS00054' '3'
+ 'cytoplasm']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235001' 'Non-Essential' 'Protein Kinases'
+ 'Cyclin-CDK (Cyclin-dependent kinases) complexes'
+ 'Conditional phenotypes' 'PS00108' '16' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G239593' 'Non-Essential' <NA> <NA> <NA> 'PS00928' '4' 'cytoplasm']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235311' 'Ambiguous-Essential' <NA> 'RNA processing complexes'
+ 'Cell morphology and organelle mutants' 'PS00017' '5' 'nucleus']
+INFO:root:PREDICTION: golgi
+INFO:root:Begin classification for test tuple:
+['G235524' 'Non-Essential' <NA> 'Ornithine carbamoyltransferase' <NA>
+ 'PS00097' '10' 'cytoplasm']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G236838' 'Non-Essential' <NA> <NA> 'Conditional phenotypes' 'PS01188'
+ '12' 'ER']
+INFO:root:PREDICTION: endosome
+INFO:root:Begin classification for test tuple:
+['G236021' 'Non-Essential' <NA> <NA> 'Conditional phenotypes' 'PS00215'
+ '4' 'mitochondria']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235538' 'Essential' <NA> 'Replication complexes'
+ 'Nucleic acid metabolism defects' <NA> '10' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235488' 'Essential' <NA> 'SCF (Skp1-Cdc53-F-box protein) complexes'
+ 'Stress response defects' 'PS00678' '9' 'nucleus']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G235668' 'Non-Essential' <NA> 'Translation complexes'
+ 'Auxotrophies, carbon and' <NA> <NA> 'mitochondria']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234267' 'Essential' 'GTP-binding proteins' 'Translation complexes'
+ 'Auxotrophies, carbon and' 'PS00301' '4' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235311' 'Ambiguous-Essential' <NA> 'RNA processing complexes'
+ 'Nucleic acid metabolism defects' 'PS00690' '5' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234314' 'Non-Essential' 'Protein Kinases' <NA> 'Cell cycle defects'
+ 'PS00107' '4' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235704' 'Non-Essential' <NA> <NA> <NA> <NA> '13' 'cytoskeleton']
+INFO:root:PREDICTION: transport vesicles
+INFO:root:Begin classification for test tuple:
+['G235893' 'Non-Essential' <NA> 'RNA processing complexes'
+ 'Cell cycle defects' <NA> '16' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234365' 'Essential' 'Ubiquitin-system proteins' <NA>
+ 'Conditional phenotypes' 'PS01159' '5' 'plasma membrane']
+INFO:root:PREDICTION: ER
+INFO:root:Begin classification for test tuple:
+['G235354' 'Essential' <NA> 'Proteasome' 'Cell cycle defects' <NA> '6'
+ 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234414' 'Non-Essential' 'Transcription factors' <NA>
+ 'Nucleic acid metabolism defects' 'PS00028' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234905' 'Non-Essential' 'Cyclins'
+ 'Cyclin-CDK (Cyclin-dependent kinases) complexes'
+ 'Cell morphology and organelle mutants' <NA> '15' 'nucleus']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234247' 'Essential' 'Ubiquitin-system proteins'
+ 'SCF (Skp1-Cdc53-F-box protein) complexes' 'Cell cycle defects' <NA> '4'
+ 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235387' 'Ambiguous-Non-Essential' <NA>
+ 'Intracellular transport complexes' 'Conditional phenotypes' 'PS00402'
+ '7' 'cytoplasm']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235268' 'Essential' <NA> 'Kinetochore protein complexes'
+ 'Cell cycle defects' <NA> '4' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235595' 'Non-Essential' <NA> 'Translation complexes' <NA> 'PS00039'
+ <NA> 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234062' 'Non-Essential' 'ATPases' 'Respiration chain complexes' <NA>
+ 'PS00152' <NA> 'mitochondria']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G234785' 'Non-Essential' 'Tubulins' 'Cytoskeleton'
+ 'Mating and sporulation defects' 'PS00227' <NA> 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234958' 'Essential' 'Transcription factors'
+ 'Transcription complexes/Transcriptosome' <NA> <NA> '15' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235337' 'Essential' <NA> 'RNA processing complexes'
+ 'Conditional phenotypes' 'PS00017' '5' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234226' 'Non-Essential' 'GTP-binding proteins'
+ 'Intracellular transport complexes' 'Stress response defects' 'PS01019'
+ '4' 'golgi']
+INFO:root:PREDICTION: golgi
+INFO:root:Begin classification for test tuple:
+['G234175' 'Non-Essential' 'Transcription factors' <NA>
+ 'Cell morphology and organelle mutants' 'PS00735' '3' 'mitochondria']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234573' 'Essential' 'ATPases' 'Translocon' <NA> 'PS00297' '10' 'ER']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G235389' 'Non-Essential' <NA> 'Intracellular transport complexes'
+ 'Conditional phenotypes' <NA> '7' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234385' 'Non-Essential' 'Molecular chaperones' <NA>
+ 'Auxotrophies, carbon and' 'PS00637' '6' 'mitochondria']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G234573' 'Essential' 'ATPases' 'Translocon' <NA> 'PS00329' '10' 'ER']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G234161' 'Non-Essential' 'Protein Kinases' <NA> <NA> 'PS00107' '3'
+ 'cytoskeleton']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235319' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Mating and sporulation defects' <NA> '5' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234485' 'Non-Essential' 'Protein Kinases' <NA>
+ 'Mating and sporulation defects' 'PS00107' '8' 'cytoplasm']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G235237' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Nucleic acid metabolism defects' 'PS00237' '4' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234728' 'Ambiguous-Essential' 'Ubiquitin-system proteins'
+ 'Translation complexes' <NA> 'PS00299' '12' 'cytoplasm']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G235454' 'Essential' <NA> 'Mitochondrial translocase complex'
+ 'Cell morphology and organelle mutants' <NA> '8' 'mitochondria']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235904' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Conditional phenotypes' <NA> <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G237429' 'Non-Essential' <NA> <NA> 'Unknown' <NA> '13' 'plasma membrane']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235440' 'Essential' <NA> 'Proteasome' 'Mating and sporulation defects'
+ 'PS00388' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234701' 'Non-Essential' 'ATPases' <NA> 'Conditional phenotypes'
+ 'PS00871' '12' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G239588' 'Non-Essential' <NA> <NA> 'Auxotrophies, carbon and' <NA> '10'
+ 'mitochondria']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234365' 'Essential' 'Ubiquitin-system proteins' <NA>
+ 'Sensitivity to aminoacid analogs and other drugs' 'PS00499' '5'
+ 'plasma membrane']
+INFO:root:PREDICTION: ER
+INFO:root:Begin classification for test tuple:
+['G235916' 'Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Conditional phenotypes' 'PS00782' <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234531' 'Non-Essential' 'Major facilitator superfamily proteins (MFS)'
+ <NA> <NA> 'PS00211' '9' 'plasma membrane']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G234847' 'Non-Essential' 'Polymerases'
+ 'Cyclin-CDK (Cyclin-dependent kinases) complexes'
+ 'Cell morphology and organelle mutants' <NA> '14' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235916' 'Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Nucleic acid metabolism defects' 'PS00782' <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234847' 'Non-Essential' 'Cyclins'
+ 'Cyclin-CDK (Cyclin-dependent kinases) complexes'
+ 'Cell morphology and organelle mutants' <NA> '14' 'nucleus']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G235602' 'Essential' <NA> 'RNA processing complexes'
+ 'Nucleic acid metabolism defects' 'PS00037' '12' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G236523' 'Non-Essential' <NA> <NA> 'Stress response defects' 'PS00633'
+ '12' 'nucleus']
+INFO:root:PREDICTION: vacuole
+INFO:root:Begin classification for test tuple:
+['G238809' 'Non-Essential' <NA> <NA> 'Nucleic acid metabolism defects'
+ <NA> '8' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235493' 'Essential' <NA> 'Exocyst complex'
+ 'Cell morphology and organelle mutants' <NA> '9' 'cytoplasm']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G237196' 'Non-Essential' <NA> <NA> <NA> <NA> '16' 'cytoplasm']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234573' 'Essential' 'Molecular chaperones' 'Translocon' <NA> 'PS00297'
+ '10' 'ER']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G235775' 'Essential' <NA> <NA> 'Cell morphology and organelle mutants'
+ <NA> <NA> 'cytoskeleton']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G236812' 'Essential' <NA> <NA>
+ 'Sensitivity to aminoacid analogs and other drugs' <NA> '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234419' 'Essential' 'Transcription factors' <NA>
+ 'Conditional phenotypes' 'PS00017' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234592' 'Non-Essential' 'Unknown'
+ 'Transcription complexes/Transcriptosome' <NA> <NA> '10' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235160' 'Essential' <NA> <NA> 'Cell morphology and organelle mutants'
+ <NA> '2' 'cytoskeleton']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G236955' 'Non-Essential' <NA> <NA> 'Auxotrophies, carbon and' <NA> <NA>
+ 'nucleus']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G235818' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Mating and sporulation defects' <NA> '15' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234419' 'Essential' 'Transcription factors' <NA>
+ 'Cell morphology and organelle mutants' 'PS00017' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234283' 'Non-Essential' 'ATPases' <NA> <NA> 'PS01047' '4' 'golgi']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235446' 'Non-Essential' <NA> 'Intracellular transport complexes' <NA>
+ 'PS00990' '8' 'plasma membrane']
+INFO:root:PREDICTION: golgi
+INFO:root:Begin classification for test tuple:
+['G235547' 'Non-Essential' <NA> 'Cytoskeleton'
+ 'Cell morphology and organelle mutants' <NA> '10' 'cytoskeleton']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G238132' 'Non-Essential' <NA> <NA>
+ 'Cell morphology and organelle mutants' <NA> '16' 'golgi']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235001' 'Non-Essential' 'Protein Kinases'
+ 'Cyclin-CDK (Cyclin-dependent kinases) complexes'
+ 'Cell morphology and organelle mutants' 'PS00108' '16' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235305' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Cell morphology and organelle mutants' <NA> '5' 'nucleus']
+INFO:root:PREDICTION: golgi
+INFO:root:Begin classification for test tuple:
+['G234062' 'Non-Essential' 'ATPases' 'Respiration chain complexes' <NA>
+ 'PS00152' <NA> 'mitochondria']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G235098' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Cell cycle defects' <NA> '1' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235291' 'Non-Essential' <NA> 'Intracellular transport complexes'
+ 'Cell morphology and organelle mutants' <NA> '4' 'golgi']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234267' 'Essential' 'GTP-binding proteins' 'Translation complexes'
+ 'Cell morphology and organelle mutants' 'PS00017' '4' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234442' 'Non-Essential' 'Motorproteins' 'Cytoskeleton'
+ 'Conditional phenotypes' 'PS00017' '7' 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234739' 'Essential' 'ATPases' 'Translation complexes' 'Unknown'
+ 'PS00211' '12' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235082' 'Essential' 'Polymerases' 'Replication complexes' 'Unknown'
+ 'PS00179' <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234834' 'Non-Essential' 'Ubiquitin-system proteins' <NA> <NA> 'PS00583'
+ '13' 'nucleus']
+INFO:root:PREDICTION: transport vesicles
+INFO:root:Begin classification for test tuple:
+['G235081' 'Non-Essential' 'ATPases' 'Intracellular transport complexes'
+ 'Cell morphology and organelle mutants' 'PS00674' '16' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234612' 'Non-Essential' 'Transcription factors'
+ 'Kinetochore protein complexes' 'Cell morphology and organelle mutants'
+ 'PS00038' '10' 'nucleus']
+INFO:root:PREDICTION: extracellular
+INFO:root:Begin classification for test tuple:
+['G234485' 'Non-Essential' 'Protein Kinases' <NA>
+ 'Cell morphology and organelle mutants' 'PS00107' '8' 'cytoplasm']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G234701' 'Non-Essential' 'Molecular chaperones' <NA>
+ 'Conditional phenotypes' 'PS00871' '12' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G238800' 'Non-Essential' <NA> <NA> 'Auxotrophies, carbon and' <NA> <NA>
+ 'ER']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G235097' 'Non-Essential' <NA> 'Nem1p-Spo7p complex'
+ 'Cell morphology and organelle mutants' <NA> '1' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234289' 'Essential' 'Polymerases'
+ 'Transcription complexes/Transcriptosome' <NA> <NA> '4' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234394' 'Essential' 'Actins' 'Cytoskeleton' 'Conditional phenotypes'
+ 'PS00432' '6' 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G239835' 'Non-Essential' <NA> <NA> 'Stress response defects' <NA> '4'
+ 'plasma membrane']
+INFO:root:PREDICTION: vacuole
+INFO:root:Begin classification for test tuple:
+['G235794' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Nucleic acid metabolism defects' <NA> '14' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G236838' 'Non-Essential' <NA> <NA>
+ 'Cell morphology and organelle mutants' 'PS01188' '12' 'ER']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235878' 'Non-Essential' <NA> 'Intracellular transport complexes'
+ 'Stress response defects' <NA> '16' 'vacuole']
+INFO:root:PREDICTION: transport vesicles
+INFO:root:Begin classification for test tuple:
+['G234442' 'Non-Essential' 'Motorproteins' 'Cytoskeleton'
+ 'Cell cycle defects' 'PS00017' '7' 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G235256' 'Non-Essential' <NA> 'Cytoskeleton'
+ 'Mating and sporulation defects' 'PS00017' '4' 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234314' 'Non-Essential' 'Protein Kinases' <NA> 'Cell cycle defects'
+ 'PS00107' '4' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G237587' 'Ambiguous-Essential' <NA> <NA> 'Cell cycle defects' 'PS00174'
+ '2' 'cytoplasm']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235761' 'Non-Essential' <NA> 'Cytoskeleton' 'Conditional phenotypes'
+ <NA> '14' 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G235878' 'Non-Essential' <NA> 'Intracellular transport complexes'
+ 'Mating and sporulation defects' <NA> '16' 'vacuole']
+INFO:root:PREDICTION: transport vesicles
+INFO:root:Begin classification for test tuple:
+['G235305' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Nucleic acid metabolism defects' <NA> '5' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234256' <NA> <NA> <NA> <NA> <NA> '4' 'cytoskeleton']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235446' 'Non-Essential' <NA> 'Intracellular transport complexes' <NA>
+ 'PS00991' '8' 'plasma membrane']
+INFO:root:PREDICTION: golgi
+INFO:root:Begin classification for test tuple:
+['G235476' 'Essential' <NA> 'Anaphase promoting complex (APC)'
+ 'Cell cycle defects' <NA> '8' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235466' 'Non-Essential' <NA> 'Translation complexes' <NA> 'PS00120'
+ <NA> 'mitochondria']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235362' 'Essential' <NA> 'RNA processing complexes'
+ 'Conditional phenotypes' 'PS00030' <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234847' 'Non-Essential' 'Cyclins'
+ 'Cyclin-CDK (Cyclin-dependent kinases) complexes'
+ 'Auxotrophies, carbon and' <NA> '14' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234573' 'Essential' 'Molecular chaperones' 'Translocon' <NA> 'PS00297'
+ '10' 'ER']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G239593' 'Non-Essential' <NA> <NA> <NA> 'PS00927' '4' 'cytoplasm']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G239364' 'Non-Essential' <NA> <NA> <NA> <NA> '11' 'ER']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234394' 'Essential' 'Actins' 'Cytoskeleton'
+ 'Cell morphology and organelle mutants' 'PS00406' '6' 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234679' 'Non-Essential' 'GTP/GDP-exchange factors (GEFs)'
+ 'Translation complexes' <NA> <NA> <NA> 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234847' 'Non-Essential' 'Polymerases'
+ 'Cyclin-CDK (Cyclin-dependent kinases) complexes' 'Cell cycle defects'
+ <NA> '14' 'nucleus']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G235081' 'Non-Essential' 'ATPases' 'Intracellular transport complexes'
+ 'Mating and sporulation defects' 'PS00674' '16' 'cytoplasm']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234531' 'Non-Essential' 'ATPases' <NA> <NA> 'PS00017' '9'
+ 'plasma membrane']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234618' 'Non-Essential' 'Transcription factors'
+ 'Transcription complexes/Transcriptosome' 'Cell cycle defects' <NA> '10'
+ 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234333' 'Non-Essential' 'Proteases' <NA> <NA> 'PS00136' '5' 'vacuole']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234372' 'Non-Essential' 'GTPase activating proteins (GAPs)' <NA>
+ 'Cell cycle defects' <NA> '5' 'cytoplasm']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234945' 'Essential' 'Polymerases'
+ 'Transcription complexes/Transcriptosome'
+ 'Nucleic acid metabolism defects' 'PS00190' '15' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235001' 'Non-Essential' 'Protein Kinases'
+ 'Cyclin-CDK (Cyclin-dependent kinases) complexes'
+ 'Auxotrophies, carbon and' 'PS00108' '16' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234741' 'Essential' 'ATPases' <NA> <NA> 'PS00296' '12' 'mitochondria']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235878' 'Non-Essential' <NA> 'Intracellular transport complexes'
+ 'Conditional phenotypes' <NA> '16' 'vacuole']
+INFO:root:PREDICTION: transport vesicles
+INFO:root:Begin classification for test tuple:
+['G234086' 'Non-Essential' 'Proteases' 'Proteases, mitochondrial'
+ 'Auxotrophies, carbon and' 'PS00017' '2' 'mitochondria']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G234521' 'Non-Essential' 'Actin related proteins' <NA>
+ 'Cell morphology and organelle mutants' 'PS01132' '8' 'cytoplasm']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G235414' 'Essential' <NA> 'Sister chromatid cohesion regulation complex'
+ 'Cell morphology and organelle mutants' <NA> <NA> 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G236523' 'Non-Essential' <NA> <NA> 'Conditional phenotypes' 'PS00633'
+ '12' 'nucleus']
+INFO:root:PREDICTION: endosome
+INFO:root:Begin classification for test tuple:
+['G235055' 'Essential' 'Cyclins' 'Transcription complexes/Transcriptosome'
+ <NA> <NA> '16' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234573' 'Essential' 'ATPases' 'Translocon' <NA> 'PS00329' '10' 'ER']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G235909' 'Essential' <NA> 'Replication complexes' 'Cell cycle defects'
+ 'PS00847' '16' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G240291' 'Essential' <NA> <NA> 'Cell morphology and organelle mutants'
+ <NA> '9' 'cytoplasm']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235268' 'Essential' <NA> 'SCF (Skp1-Cdc53-F-box protein) complexes'
+ 'Cell cycle defects' <NA> '4' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G237406' 'Essential' <NA> <NA> 'Conditional phenotypes' 'PS00225' <NA>
+ 'cytoplasm']
+INFO:root:PREDICTION: ER
+INFO:root:Begin classification for test tuple:
+['G234094' 'Non-Essential' 'Transcription factors' <NA>
+ 'Mating and sporulation defects' 'PS00463' '2' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235050' 'Essential' 'Polymerases'
+ 'Transcription complexes/Transcriptosome' <NA> 'PS01166' <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235232' 'Non-Essential' <NA>
+ 'Alpha, alpha-trehalose-phosphate synthase' 'Conditional phenotypes' <NA>
+ '4' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234704' 'Non-Essential' 'Ubiquitin-system proteins' <NA>
+ 'Stress response defects' 'PS00299' '12' 'cytoplasm']
+INFO:root:PREDICTION: vacuole
+INFO:root:Begin classification for test tuple:
+['G235719' 'Non-Essential' <NA> 'Intracellular transport complexes' <NA>
+ 'PS00914' '13' 'plasma membrane']
+INFO:root:PREDICTION: transport vesicles
+INFO:root:Begin classification for test tuple:
+['G234515' 'Non-Essential' 'Transcription factors' <NA>
+ 'Cell morphology and organelle mutants' <NA> '8' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234120' 'Non-Essential' 'Major facilitator superfamily proteins (MFS)'
+ <NA> <NA> 'PS00218' '2' 'plasma membrane']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G235356' 'Essential' <NA> 'Translocon' 'Conditional phenotypes' <NA> '7'
+ 'ER']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234365' 'Essential' 'Ubiquitin-system proteins' <NA>
+ 'Conditional phenotypes' 'PS00499' '5' 'plasma membrane']
+INFO:root:PREDICTION: ER
+INFO:root:Begin classification for test tuple:
+['G235818' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Mating and sporulation defects' <NA> '15' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234711' 'Non-Essential' 'Transcription factors' <NA> <NA> 'PS00343'
+ '12' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234412' 'Non-Essential' 'Transcription factors' <NA>
+ 'Nucleic acid metabolism defects' <NA> '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235538' 'Essential' <NA> 'Replication complexes' 'Cell cycle defects'
+ <NA> '10' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234794' 'Non-Essential' 'Proteases' 'Proteases, mitochondrial'
+ 'Nucleic acid metabolism defects' 'PS00501' '13' 'mitochondria']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235233' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Cell cycle defects' 'PS00017' '4' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G238662' 'Non-Essential' <NA> <NA> 'Nucleic acid metabolism defects'
+ <NA> '2' 'nucleus']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G234485' 'Non-Essential' 'Protein Kinases' <NA>
+ 'Cell morphology and organelle mutants' 'PS00108' '8' 'cytoplasm']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G234365' 'Essential' 'Ubiquitin-system proteins' <NA>
+ 'Conditional phenotypes' 'PS00499' '5' 'plasma membrane']
+INFO:root:PREDICTION: ER
+INFO:root:Begin classification for test tuple:
+['G235150' 'Non-Essential' <NA> 'Translocon' 'Conditional phenotypes' <NA>
+ '2' 'ER']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234791' 'Non-Essential' 'GTP-binding proteins'
+ 'RNA processing complexes' <NA> 'PS00017' '13' 'mitochondria']
+INFO:root:PREDICTION: transport vesicles
+INFO:root:Begin classification for test tuple:
+['G235305' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Carbohydrate and lipid biosynthesis defects' <NA> '5' 'nucleus']
+INFO:root:PREDICTION: golgi
+INFO:root:Begin classification for test tuple:
+['G234389' 'Non-Essential' 'Transcription factors' <NA>
+ 'Sensitivity to aminoacid analogs and other drugs' 'PS00036' '6'
+ 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234794' 'Non-Essential' 'Proteases' 'Proteases, mitochondrial'
+ 'Stress response defects' 'PS00501' '13' 'mitochondria']
+INFO:root:PREDICTION: golgi
+INFO:root:Begin classification for test tuple:
+['G234615' 'Essential' 'Actin related proteins'
+ 'Intracellular transport complexes'
+ 'Cell morphology and organelle mutants' 'PS01132' '10' 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234247' 'Essential' 'Ubiquitin-system proteins'
+ 'SCF (Skp1-Cdc53-F-box protein) complexes' 'Cell cycle defects' <NA> '4'
+ 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235888' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Conditional phenotypes' <NA> '16' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234698' 'Non-Essential' 'GTP/GDP-exchange factors (GEFs)' <NA> <NA>
+ 'PS00720' '12' 'plasma membrane']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G235612' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Nucleic acid metabolism defects' <NA> '12' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234147' 'Essential' 'Polymerases'
+ 'Transcription complexes/Transcriptosome'
+ 'Nucleic acid metabolism defects' <NA> '2' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G239162' 'Non-Essential' <NA> <NA> 'Conditional phenotypes' 'PS00215'
+ '4' 'vacuole']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234203' 'Essential' 'Polymerases' 'Replication complexes'
+ 'Nucleic acid metabolism defects' 'PS00116' '4' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235746' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Conditional phenotypes' 'PS00017' '13' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235818' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Nucleic acid metabolism defects' <NA> '15' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235569' 'Non-Essential' <NA> 'RNA processing complexes' <NA> <NA> '11'
+ 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234531' 'Non-Essential' 'ATPases' <NA> <NA> 'PS00017' '9'
+ 'plasma membrane']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G235476' 'Essential' <NA> 'Anaphase promoting complex (APC)'
+ 'Conditional phenotypes' <NA> '8' 'nucleus']
+INFO:root:PREDICTION: ER
+INFO:root:Begin classification for test tuple:
+['G240327' 'Non-Essential' <NA> <NA> <NA> <NA> '10' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234573' 'Essential' 'ATPases' 'Translocon' <NA> 'PS00014' '10' 'ER']
+INFO:root:PREDICTION: extracellular
+INFO:root:Begin classification for test tuple:
+['G234590' 'Non-Essential' 'Polymerases'
+ 'Transcription complexes/Transcriptosome' 'Conditional phenotypes' <NA>
+ '10' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234741' 'Essential' 'Molecular chaperones' <NA> <NA> 'PS00296' '12'
+ 'mitochondria']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234394' 'Essential' 'Actins' 'Cytoskeleton' 'Cell cycle defects'
+ 'PS00406' '6' 'cytoskeleton']
+INFO:root:PREDICTION: golgi
+INFO:root:Begin classification for test tuple:
+['G234249' 'Non-Essential' 'Proteases' 'Proteasome' 'Cell cycle defects'
+ 'PS00973' '4' 'nucleus']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234671' 'Essential' 'Other kinases' <NA>
+ 'Cell morphology and organelle mutants' <NA> '11' 'vacuole']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G235440' 'Essential' <NA> 'Proteasome'
+ 'Cell morphology and organelle mutants' 'PS00388' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G239938' 'Non-Essential' <NA> <NA> 'Conditional phenotypes' 'PS00037'
+ '13' 'cytoplasm']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234579' 'Non-Essential' 'Transcription factors' <NA>
+ 'Conditional phenotypes' 'PS00463' '10' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G237321' 'Non-Essential' <NA> <NA> 'Nucleic acid metabolism defects'
+ <NA> '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G240373' 'Non-Essential' <NA> <NA> 'Conditional phenotypes' <NA> '4'
+ 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235392' 'Non-Essential' <NA> 'Anaphase promoting complex (APC)'
+ 'Cell cycle defects' <NA> <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235454' 'Essential' <NA> 'Mitochondrial translocase complex'
+ 'Cell morphology and organelle mutants' <NA> '8' 'mitochondria']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235369' 'Non-Essential' <NA> 'Nuclear pore complex (NPC)'
+ 'Mating and sporulation defects' <NA> '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234097' 'Non-Essential' 'Major facilitator superfamily proteins (MFS)'
+ 'Nuclear pore complex (NPC)' 'Conditional phenotypes' <NA> '2' 'nucleus']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G234861' 'Essential' 'Polymerases' 'Replication complexes' 'Unknown'
+ 'PS00116' '14' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235220' 'Essential' <NA> 'Intracellular transport complexes'
+ 'Cell morphology and organelle mutants' 'PS00402' '4'
+ 'transport vesicles']
+INFO:root:PREDICTION: transport vesicles
+INFO:root:Begin classification for test tuple:
+['G235050' 'Essential' 'Polymerases'
+ 'Transcription complexes/Transcriptosome' <NA> 'PS01166' <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G236758' 'Non-Essential' <NA> <NA>
+ 'Cell morphology and organelle mutants' <NA> '4' 'ER']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234785' 'Non-Essential' 'GTP-binding proteins' 'Cytoskeleton'
+ 'Cell morphology and organelle mutants' 'PS00227' <NA> 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G235414' 'Essential' <NA> 'Sister chromatid cohesion regulation complex'
+ 'Cell morphology and organelle mutants' <NA> <NA> 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235110' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Conditional phenotypes' <NA> '2' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234419' 'Essential' 'Transcription factors' <NA> 'Cell cycle defects'
+ 'PS00434' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G239273' 'Essential' <NA> <NA> 'Nucleic acid metabolism defects' <NA>
+ '4' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G240492' 'Non-Essential' <NA> <NA> <NA> <NA> '15' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234419' 'Essential' 'Transcription factors' <NA> 'Cell cycle defects'
+ 'PS00017' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234181' 'Non-Essential' 'Transcription factors' <NA> <NA> 'PS00658' '3'
+ 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234419' 'Essential' 'Transcription factors' <NA>
+ 'Conditional phenotypes' 'PS00017' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234314' 'Non-Essential' 'Protein Kinases' <NA>
+ 'Auxotrophies, carbon and' 'PS00107' '4' 'cytoplasm']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234791' 'Non-Essential' 'GTP-binding proteins' 'Translation complexes'
+ <NA> 'PS00017' '13' 'mitochondria']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235311' 'Ambiguous-Essential' <NA> 'RNA processing complexes'
+ 'Cell morphology and organelle mutants' 'PS00017' '5' 'nucleus']
+INFO:root:PREDICTION: golgi
+INFO:root:Begin classification for test tuple:
+['G235098' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Stress response defects' <NA> '1' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G237321' 'Non-Essential' <NA> <NA> 'Conditional phenotypes' <NA> '7'
+ 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234299' 'Essential' 'ATPases' 'Proteasome' <NA> <NA> '4' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234791' 'Non-Essential' 'GTP-binding proteins'
+ 'RNA processing complexes' <NA> 'PS00017' '13' 'mitochondria']
+INFO:root:PREDICTION: transport vesicles
+INFO:root:Begin classification for test tuple:
+['G234365' 'Essential' 'Ubiquitin-system proteins' <NA>
+ 'Sensitivity to aminoacid analogs and other drugs' 'PS00499' '5'
+ 'plasma membrane']
+INFO:root:PREDICTION: ER
+INFO:root:Begin classification for test tuple:
+['G234442' 'Non-Essential' 'Motorproteins' 'Cytoskeleton'
+ 'Conditional phenotypes' 'PS00017' '7' 'cytoskeleton']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G239588' 'Non-Essential' <NA> <NA> 'Auxotrophies, carbon and' <NA> '10'
+ 'mitochondria']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235904' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Conditional phenotypes' <NA> <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234671' 'Essential' 'Other kinases' <NA>
+ 'Sensitivity to immunosuppressants' <NA> '11' 'vacuole']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234298' 'Essential' 'Ubiquitin-system proteins' <NA>
+ 'Conditional phenotypes' 'PS00865' '4' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234573' 'Essential' 'ATPases' 'Translocon' <NA> 'PS00297' '10' 'ER']
+INFO:root:PREDICTION: mitochondria
+INFO:root:Begin classification for test tuple:
+['G240040' 'Essential' <NA> <NA> <NA> <NA> '10' 'nucleus']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235770' 'Non-Essential' <NA> 'Gim complexes'
+ 'Mating and sporulation defects' <NA> '14' 'cytoplasm']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G234490' 'Non-Essential' 'Transcription factors' <NA>
+ 'Conditional phenotypes' 'PS00028' '8' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234739' 'Essential' 'ATPases' 'Translation complexes' 'Unknown'
+ 'PS00017' '12' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G234704' 'Non-Essential' 'Ubiquitin-system proteins' <NA>
+ 'Mating and sporulation defects' 'PS00299' '12' 'cytoplasm']
+INFO:root:PREDICTION: endosome
+INFO:root:Begin classification for test tuple:
+['G235325' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Mating and sporulation defects' <NA> '5' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234570' 'Non-Essential' 'Cyclins'
+ 'Transcription complexes/Transcriptosome' 'Conditional phenotypes' <NA>
+ '10' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G239938' 'Non-Essential' <NA> <NA>
+ 'Cell morphology and organelle mutants' 'PS00037' '13' 'cytoplasm']
+INFO:root:PREDICTION: transport vesicles
+INFO:root:Begin classification for test tuple:
+['G234704' 'Non-Essential' 'Ubiquitin-system proteins' <NA>
+ 'Sensitivity to aminoacid analogs and other drugs' 'PS00299' '12'
+ 'cytoplasm']
+INFO:root:PREDICTION: plasma membrane
+INFO:root:Begin classification for test tuple:
+['G234419' 'Essential' 'Transcription factors' <NA>
+ 'Cell morphology and organelle mutants' 'PS00434' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235367' 'Essential' <NA> 'Nuclear pore complex (NPC)'
+ 'Conditional phenotypes' <NA> '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235325' 'Non-Essential' <NA> 'Transcription complexes/Transcriptosome'
+ 'Nucleic acid metabolism defects' <NA> '5' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234419' 'Essential' 'Transcription factors' <NA> 'Cell cycle defects'
+ 'PS00017' '7' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G234161' 'Non-Essential' 'Protein Kinases' <NA> <NA> 'PS00108' '3'
+ 'cytoskeleton']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G235567' 'Essential' <NA> 'Transcription complexes/Transcriptosome' <NA>
+ <NA> '11' 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G239060' <NA> <NA> <NA> <NA> 'PS00463' <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Begin classification for test tuple:
+['G235291' 'Non-Essential' <NA> 'Intracellular transport complexes'
+ 'Cell morphology and organelle mutants' <NA> '4' 'golgi']
+INFO:root:PREDICTION: cytoskeleton
+INFO:root:Begin classification for test tuple:
+['G234372' 'Non-Essential' 'GTPase activating proteins (GAPs)' <NA>
+ 'Cell morphology and organelle mutants' <NA> '5' 'cytoplasm']
+INFO:root:PREDICTION: cytoplasm
+INFO:root:Begin classification for test tuple:
+['G238132' 'Non-Essential' <NA> <NA> 'Stress response defects' <NA> '16'
+ 'golgi']
+INFO:root:PREDICTION: vacuole
+INFO:root:Begin classification for test tuple:
+['G235414' 'Essential' <NA> 'Sister chromatid cohesion regulation complex'
+ 'Cell cycle defects' <NA> <NA> 'nucleus']
+INFO:root:PREDICTION: nucleus
+INFO:root:Overall accuracy of KNN model: 52.666666666666664%
