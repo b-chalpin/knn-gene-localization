@@ -13,7 +13,6 @@ def load_csv(path: str) -> pd.DataFrame:
                                         Chromosome="string", Function="string", Localization="string"))
 
     # # Replace ? with NaN (Null)
-    # data[data == "?"] = np.NaN
     data.replace("?", np.NaN, inplace=True)
 
     # Remove Function attribute
