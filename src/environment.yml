@@ -1,4 +1,4 @@
-name: cscd429-hw2-blake-chalpin
+name: knn-gene-localization
 channels:
   - defaults
 dependencies:

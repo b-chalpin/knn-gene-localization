@@ -3,10 +3,10 @@ import numpy as np
 from output import Logger, ResultFileWriter
 
 
-'''
-   Distance function for calculating euclidean distance between two tuples 
-'''
 def calculate_distance(u, v) -> float:
+    '''
+        Distance function for calculating euclidean distance between two tuples 
+    '''
     distance = 0
 
     for index in range(2, len(u) - 1):
@@ -22,10 +22,10 @@ def calculate_distance(u, v) -> float:
     return distance
 
 
-'''
-    Main KNN function
-'''
 def knn_classifier(train: pd.DataFrame, test: pd.DataFrame, n: int) -> np.array:
+    '''
+        Main KNN function
+    '''
     # initialize logger
     logger = Logger()
 
@@ -76,10 +76,10 @@ def knn_classifier(train: pd.DataFrame, test: pd.DataFrame, n: int) -> np.array:
     return np.array(prediction_list)
 
 
-'''
-    Performance calculation
-'''
 def calculate_accuracy(predictions: np.array, test: pd.DataFrame) -> float:
+    '''
+        Performance calculation
+    '''
     # initialize logger
     logger = Logger()
 
